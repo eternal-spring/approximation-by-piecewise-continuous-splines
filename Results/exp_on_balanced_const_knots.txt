@@ -1,0 +1,9 @@
+\begin{tabular}{lrrr}
+\hline
+ $\phi(t)$                   &     n=10 &     n=50 &    n=100 \\
+\hline
+ 1                           & 0.085935 & 0.017213 & 0.008641 \\
+ \tan{\left(t \right)} + \pi & 0.058977 & 0.011744 & 0.005894 \\
+ \sqrt{t + 2}                & 0.071434 & 0.014032 & 0.007158 \\
+\hline
+\end{tabular}
